@@ -1,0 +1,79 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.logo{
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1{
+    font: "Times New Roman";
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.4em;
+    background-color: #C4C4C7;
+    color:#005677;
+    padding: 10px;
+    margin-bottom: 128px;
+}
+h2{
+    font: "Times New Roman";
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 0.4em;
+    background-color: #C4C4C7;
+    color: #005677;
+    padding: 4px 13px;
+}
+
+li{
+    font: "Times New Roman";
+    font-weight: 400;
+    font-size: 15px;
+    padding-bottom: 5px;
+}
+li > span{
+    font: "Times New Roman";
+    font-weight: 700;
+    font-size: 15px;
+    font-style: italic;
+}
+
+dt{
+    font: "Times New Roman";
+    font-weight: 700;
+    font-size: 15px;
+    padding: 0 0 0 13px;
+}
+dd{
+    font: "Times New Roman";
+    font-weight: 400;
+    font-size: 15px;
+}
+
+footer{
+    background-color: #005677;
+    text-align: center;
+    padding: 9px;
+    margin-top: 128px;
+}
+
+footer > span{
+    font: "Times New Roman";
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+    line-height: 17px;
+
+}
+
+footer > a > img{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    padding: 0 0 0 26px;
+}
